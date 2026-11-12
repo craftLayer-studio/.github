@@ -1,0 +1,67 @@
+name: Bug report
+description: Something on one of our sites or in one of our repositories is broken.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. Please do not report security vulnerabilities here; follow SECURITY.md instead.
+  - type: input
+    id: url
+    attributes:
+      label: Page URL
+      description: The page where the problem happens, if it is on a website.
+      placeholder: https://craftlayer-studio.github.io/...
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The smallest set of steps that shows the problem.
+      placeholder: |
+        1. Go to ...
+        2. Select ...
+        3. See ...
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device
+      description: For example Firefox 132 on Windows 11, or Safari on iPhone 15.
+    validations:
+      required: false
+  - type: dropdown
+    id: assistive-tech
+    attributes:
+      label: Does this affect accessibility?
+      description: For example keyboard use, a screen reader, zoom or reduced motion.
+      options:
+        - "No"
+        - "Yes"
+        - "Not sure"
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, console errors or links that help explain the problem.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      options:
+        - label: I agree to follow this project's Code of Conduct.
+          required: true
