@@ -64,8 +64,13 @@ More open-source work: [SketchFlow](https://github.com/playlikeboy/sketchflow), 
 | [Forge Fitness](https://craftlayer-studio.github.io/industry-demos/gym/) | Gym | Programmes, trainers, memberships, a filterable class timetable and trial booking |
 | [Juniper Kitchen](https://craftlayer-studio.github.io/industry-demos/restaurant/) | Restaurant | A filterable menu, a mock order cart and validated reservations |
 | [Northstar Clinic](https://craftlayer-studio.github.io/industry-demos/clinic/) | Healthcare | Specialties, clinicians, FAQs and a multi-step appointment request |
+| [Pulsegrid](https://craftlayer-studio.github.io/industry-demos/saas/) | SaaS | Feature tour, pricing calculator, plan comparison and a validated waitlist |
+| [Quillmark Academy](https://craftlayer-studio.github.io/industry-demos/academy/) | Education | Searchable course catalogue, learning paths, instructors and an enrolment enquiry |
+| [Halden & Rowe](https://craftlayer-studio.github.io/industry-demos/advisory/) | Professional services | Practice areas, a fee estimator, team profiles and a multi-step consultation request |
 
 Source: [craftLayer-studio/industry-demos](https://github.com/craftLayer-studio/industry-demos).
+
+The [landing page gallery](https://craftlayer-studio.github.io/landing-gallery/) adds six fictional landing pages built with Tailwind CSS from Inspo reference archetypes. Source: [craftLayer-studio/landing-gallery](https://github.com/craftLayer-studio/landing-gallery).
 
 ## Products
 
@@ -77,7 +82,8 @@ Source: [craftLayer-studio/industry-demos](https://github.com/craftLayer-studio/
 |---|---|
 | [.github](https://github.com/craftLayer-studio/.github) | This organization profile and the default community health files |
 | [craftlayer-studio.github.io](https://github.com/craftLayer-studio/craftlayer-studio.github.io) | The studio website, a static Next.js site on GitHub Pages |
-| [industry-demos](https://github.com/craftLayer-studio/industry-demos) | The three fictional concept demo sites |
+| [industry-demos](https://github.com/craftLayer-studio/industry-demos) | The six fictional concept demo sites |
+| [landing-gallery](https://github.com/craftLayer-studio/landing-gallery) | Six fictional landing page examples (Next.js + Tailwind CSS) |
 
 ## Contact
 
