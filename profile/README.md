@@ -75,6 +75,10 @@ More open-source work: [SketchFlow](https://github.com/playlikeboy/sketchflow), 
 | [The Saltmarsh](https://craftlayer-studio.github.io/industry-demos/hotel/) | Hospitality | Stay search, filterable rooms, rate calculator and booking request |
 | [Ostrander Studio](https://craftlayer-studio.github.io/industry-demos/architecture/) | Architecture | Filterable project archive, design stage explainer, fee guide and brief builder |
 | [Keystone Build Co.](https://craftlayer-studio.github.io/industry-demos/builders/) | Construction | Service tabs, extension cost estimator, process timeline and survey request |
+| [Arbour Dental](https://craftlayer-studio.github.io/industry-demos/dental/) | Dental | Treatments with illustrative prices, payment estimator and consultation request |
+| [Hollin Barn](https://craftlayer-studio.github.io/industry-demos/weddings/) | Weddings | Spaces and capacities, package builder, sample availability calendar and viewing request |
+| [Torque & Co. Motors](https://craftlayer-studio.github.io/industry-demos/automotive/) | Automotive | Sample vehicle lookup, service tabs, price estimator and MOT reminders |
+| [Meadowlark Vets](https://craftlayer-studio.github.io/industry-demos/vet/) | Veterinary | Services by pet type, health plan calculator, open-now hours and appointment request |
 
 Source: [craftLayer-studio/industry-demos](https://github.com/craftLayer-studio/industry-demos).
 
@@ -90,7 +94,7 @@ The [landing page gallery](https://craftlayer-studio.github.io/landing-gallery/)
 |---|---|
 | [.github](https://github.com/craftLayer-studio/.github) | This organization profile and the default community health files |
 | [craftlayer-studio.github.io](https://github.com/craftLayer-studio/craftlayer-studio.github.io) | The studio website, a static Next.js site on GitHub Pages |
-| [industry-demos](https://github.com/craftLayer-studio/industry-demos) | The fourteen fictional concept demo sites, built with Meta Astryx |
+| [industry-demos](https://github.com/craftLayer-studio/industry-demos) | The eighteen fictional concept demo sites, built with Meta Astryx |
 | [landing-gallery](https://github.com/craftLayer-studio/landing-gallery) | Six fictional landing page examples (Next.js + Tailwind CSS) |
 
 ## Contact
